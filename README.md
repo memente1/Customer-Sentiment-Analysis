@@ -1,2 +1,3 @@
 # Customer-Sentiment-Analysis
 analyze customer reviews across various product categories on an e-commerce platform to understand customer sentiment and identify key theme
+In the highly competitive e-commerce industry, understanding customer feedback is crucial for improving products and services, enhancing customer satisfaction, and ultimately driving business success. Customer reviews provide a rich source of unstructured data that can reveal valuable insights into customer experiences, preferences, and areas for improvement. This study aims to leverage advanced text analysis techniques to analyze customer reviews across various product categories, identify sentiment trends, and uncover key themes that influence customer satisfaction.
